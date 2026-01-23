@@ -95,18 +95,21 @@ cd Insurance-Cost-Prediction
 Install dependencies:
 pip install -r requirements.txt
 
+Run the Streamlit app :
+streamlit run app.py
+
 Run notebooks:
-EDA.ipynb for analysis
+EDA.ipynb for analysis , 
 Model_Training.ipynb for training
 
 
 
 🚀 Future Improvements
 
-Deploy the model using Streamlit
-Hyperparameter tuning
-Add cross-validation
-Improve feature engineering
+Hyperparameter tuning & cross-validation
+Better feature engineering
+Deployment enhancements with Docker or cloud hosting
+Add CI/CD workflows
 
 👤 Author
 
