@@ -95,11 +95,11 @@ cd Insurance-Cost-Prediction
 Install dependencies:
 pip install -r requirements.txt
 
-Run the Streamlit app
+Run the Streamlit app :
 streamlit run app.py
 
 Run notebooks:
-EDA.ipynb for analysis
+EDA.ipynb for analysis , 
 Model_Training.ipynb for training
 
 
